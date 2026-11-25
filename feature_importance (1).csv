@@ -1,0 +1,46 @@
+Feature,Importance
+cat__Contract_Month-to-month,0.5608837235197697
+num__tenure,0.10447717548743296
+cat__InternetService_Fiber optic,0.09955409379577047
+num__MonthlyCharges,0.0745226856253783
+num__TotalCharges,0.0300147819673103
+cat__Contract_Two year,0.02097423187520618
+cat__PaymentMethod_Electronic check,0.019973839257975454
+cat__TechSupport_No,0.01793320428648386
+cat__StreamingMovies_No,0.015086809786334022
+cat__OnlineSecurity_No,0.014889645124126848
+cat__PhoneService_Yes,0.010723800183740254
+cat__Dependents_Yes,0.005136392331205671
+num__SeniorCitizen,0.004840100890411509
+cat__PaperlessBilling_No,0.004766525273581193
+cat__PaymentMethod_Mailed check,0.0037062233423808973
+cat__MultipleLines_No,0.003260652071309079
+cat__StreamingTV_Yes,0.00280092896199443
+cat__StreamingMovies_Yes,0.002108825867602815
+cat__Partner_No,0.0017167682402559781
+cat__TechSupport_Yes,0.0016101693072352763
+cat__PaymentMethod_Credit card (automatic),0.0006322279773699871
+cat__OnlineBackup_No,0.0003871948271248806
+cat__PhoneService_No,0.0
+cat__Partner_Yes,0.0
+cat__Dependents_No,0.0
+cat__gender_Female,0.0
+cat__gender_Male,0.0
+cat__InternetService_DSL,0.0
+cat__InternetService_No,0.0
+cat__TechSupport_No internet service,0.0
+cat__DeviceProtection_Yes,0.0
+cat__DeviceProtection_No internet service,0.0
+cat__DeviceProtection_No,0.0
+cat__OnlineBackup_No internet service,0.0
+cat__OnlineBackup_Yes,0.0
+cat__OnlineSecurity_No internet service,0.0
+cat__OnlineSecurity_Yes,0.0
+cat__MultipleLines_No phone service,0.0
+cat__MultipleLines_Yes,0.0
+cat__StreamingTV_No,0.0
+cat__StreamingTV_No internet service,0.0
+cat__StreamingMovies_No internet service,0.0
+cat__Contract_One year,0.0
+cat__PaperlessBilling_Yes,0.0
+cat__PaymentMethod_Bank transfer (automatic),0.0
